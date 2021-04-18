@@ -1,6 +1,6 @@
 ![Welcome](/ProfileGithubGIF.jpg?raw=true)
 
-![Juliana Pereira GitHub stats](https://github-readme-stats.vercel.app/api?username=Juliana-Pereira&show_icons=true&theme=onedark)
+![Juliana Pereira GitHub stats](https://github-readme-stats.vercel.app/api?username=Juliana-Pereira&show_icons=true&theme=highcontrast)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juliana-Pereira&layout=compact)](https://github.com/Juliana-Pereira/github-readme-stats)
 
 

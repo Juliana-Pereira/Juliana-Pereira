@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 👩🏽‍💻 BI Finance Intern
-- 🎓 Information systems 2021/12
+- 🎓 Information systems 2022/12
 - 💼 ETL - Database
 - 💬 Ask me about ...
 - 📫 How to reach me: ...

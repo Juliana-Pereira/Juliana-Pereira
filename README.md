@@ -1,4 +1,3 @@
-### Hi there 👋
 ![Welcome](/ProfileGithubGIF.jpg?raw=true)
 
 ![Juliana Pereira GitHub stats](https://github-readme-stats.vercel.app/api?username=Juliana-Pereira&show_icons=true&theme=radical)

@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Welcome](https://www.figma.com/proto/PNve2eYf1sZlFXx4jQvv2s/Untitled?node-id=1%3A2&scaling=min-zoom&page-id=0%3A1)
+![Welcome](/ProfileGithubGIF.jpg?raw=true)
 
 ![Juliana Pereira GitHub stats](https://github-readme-stats.vercel.app/api?username=Juliana-Pereira&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juliana-Pereira&layout=compact)](https://github.com/Juliana-Pereira/github-readme-stats)
